@@ -4,22 +4,27 @@
 
 # Hi, I'm Yeabsira Getachew 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Frontend+Developer;Learning+Full+Stack+Development" alt="Typing SVG" />
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://nirzak-streak-stats.vercel.app/?user=yeab-12&theme=tokyonight">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=yeab-12&theme=tokyonight" alt="GitHub Streak" width="60%" style="max-width: 100%;">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeab-12&label=Profile%20Views&color=0ea5e9&style=flat" />
+  <a href="https://linkedin.com/in/yeabsira-getachew" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
+  </a>
+  <a href="https://instagram.com/yourusername" rel="nofollow">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="max-width: 100%;">
+  </a>
 </p>
-
----
 
 ## 👨‍💻 About Me
 
-I’m a **3rd Year Software Engineering student** at **Adama Science and Technology University (ASTU)**. I enjoy building clean, user-friendly web applications and I’m actively learning modern **full‑stack development**.
+I’m a **3rd Year Software Engineering student** at **Adama Science and Technology University (ASTU)**. I enjoy building clean, user-friendly web applications and I’m actively learning modern **full-stack development**.
 
 * 🌱 Currently learning **Node.js & Express.js**
-* 💡 Interested in **Web Apps, UI/UX, and Real‑world Projects**
+* 💡 Interested in **Web Apps, UI/UX, and Real-world Projects**
 * 🤝 I enjoy teamwork and collaborative development
 
 ---
@@ -77,39 +82,21 @@ Small practice projects focused on **layout, responsiveness, and UI basics**.
 ## 🎨 Theme Switch (Dark / Light)
 
 <p align="center">
-  <!-- Dark Mode -->
   <img src="https://github-readme-stats.vercel.app/api?username=yeab-12&show_icons=true&theme=tokyonight" />
 </p>
-
 <p align="center">
-  <!-- Light Mode -->
   <img src="https://github-readme-stats.vercel.app/api?username=yeab-12&show_icons=true&theme=default" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeab-12&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeab-12&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeab-12&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-* 📧 **Email:** [yeabsiragetachew613@gmail.com](mailto:yeabsiragetachew613@gmail.com)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/yeabsira-getachew](https://www.linkedin.com/in/yeabsira-getachew)
-* 🐱 **GitHub:** [https://github.com/yeab-12](https://github.com/yeab-12)
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
+<p align="center">
+  <a href="https://linkedin.com/in/yeabsira-getachew" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
+  </a>
+  <a href="https://instagram.com/yourusername" rel="nofollow">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="max-width: 100%;">
+  </a>
+</p>
