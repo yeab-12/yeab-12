@@ -4,26 +4,7 @@
 
 # Hi, I'm Yeabsira Getachew 👋
 
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://nirzak-streak-stats.vercel.app/?user=yeab-12&theme=tokyonight">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=yeab-12&theme=tokyonight" alt="GitHub Streak" width="60%" style="max-width: 100%;">
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/yeabsira-getachew" rel="nofollow">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/yeabhel" rel="nofollow">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://t.me/Helyabu" rel="nofollow">
-    <img src="https://img.shields.io/badge/Telegram-%230088CC.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:yeabsira@example.com" rel="nofollow">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 ---
 
@@ -82,14 +63,26 @@ Small practice projects focused on **layout, responsiveness, and UI basics**.
 
 ## 🎨 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeab-12&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeab-12&layout=compact&theme=tokyonight" />
+<<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://nirzak-streak-stats.vercel.app/?user=yeab-12&theme=tokyonight">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=yeab-12&theme=tokyonight" alt="GitHub Streak" width="60%" style="max-width: 100%;">
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/yeabsira-getachew" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/yeabhel" rel="nofollow">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://t.me/Helyabu" rel="nofollow">
+    <img src="https://img.shields.io/badge/Telegram-%230088CC.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:yeabsira@example.com" rel="nofollow">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ## 📫 Contact Me
 
