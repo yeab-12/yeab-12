@@ -50,14 +50,17 @@ I enjoy building clean, user-friendly web applications and actively learning **f
 
 ## 🚀 Projects
 
-### 🎓 ASTU Student Portal
+### 🎓 [ASTU Student Portal](https://github.com/yeab-12/Astu-Student-Portal)
 A full web application for **student registration, login, and course access**.
 
-### 🌐 Personal Portfolio
+### 🌐 [Personal Portfolio](https://github.com/yeab-12/My-Portfolio)
 A modern portfolio website showcasing my **projects, skills, and contact information**.
 
-### 🎨 HTML & CSS Mini Projects
-Small practice projects focused on **layout, responsiveness, and UI basics**.
+### 🎨 [FreeCodeCamp HTML & CSS Projects](https://github.com/yeab-12/FreeCodeCamp-HTML-CSS-Projects)
+Small practice projects focused on **HTML, CSS, and UI basics**.
+
+---
+
 
 ---
 
