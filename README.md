@@ -26,7 +26,7 @@ I enjoy building clean, user-friendly web applications and actively learning **f
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Backend (Learning)
+### ⚙️ Backend 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
