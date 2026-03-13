@@ -13,7 +13,7 @@
 I’m a **3rd Year Software Engineering student** at **Adama Science and Technology University (ASTU)**.  
 I enjoy building clean, user-friendly web applications and actively learning **full-stack development**.
 
-* 🌱 Currently learning **Node.js & Express.js**  
+* 🌱 Backend **Node.js & Express.js**  
 * 💡 Interested in **Web Apps, UI/UX, and Real-world Projects**  
 * 🤝 I enjoy teamwork and collaborative development  
 
